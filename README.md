@@ -52,8 +52,6 @@ This project explores public health survey data from the BRFSS (Behavioral Risk 
 ## 📂 Files
 
 - `Anuvala Setty - Project Assigniment 4.pdf` – Final report  
-- `heart_disease_cleaned.csv` (optional if you include it)  
-- `heart_model.Rmd` or `heart_model.ipynb` (optional)
 
 ---
 
